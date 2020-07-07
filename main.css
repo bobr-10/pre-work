@@ -183,6 +183,7 @@ header h1 {
 header button {
     display: flex;
     justify-content: center;
+    align-items: center;
     width: 192px;
     height: 52px;
     border-radius: 3px;
